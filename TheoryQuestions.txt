@@ -1,0 +1,40 @@
+Q-1. Define the terms: Website, Webpage, Web browser, Web server,HTML,CSS
+ANS : 
+•  Website: 
+A website is a collection of interconnected webpages that are typically accessible via the internet. 
+Websites are identified by a domain name and hosted on at least one web server.
+
+•  Webpage: 
+A webpage is a single document, which can be displayed in a web browser. 
+It is usually written in HTML and accessed through a unique URL.
+
+•  Web Browser: 
+A web browser is a software application used to access information on the World Wide Web.
+Examples include Google Chrome, Mozilla Firefox, Safari, and Microsoft Edge.
+
+•  Web Server: 
+A web server is a computer system that hosts websites. It serves content to users 
+over the internet or an intranet. The term can also refer to the software that runs on these systems, 
+which responds to requests from web browsers.
+
+•  HTML (HyperText Markup Language): 
+HTML is the standard markup language used to create webpages.
+ It provides the structure of a webpage and is used alongside CSS and JavaScript to create the user interface of a webpage.
+
+•  CSS (Cascading Style Sheets): 
+CSS is a stylesheet language used to describe the presentation of a 
+document written in HTML or XML. CSS describes how elements should be rendered on screen, on paper, in speech, or on other media.
+
+Q-8. In how many ways can a CSS be integrated as a web page?
+ANS:
+CSS can be integrated into a web page in three different ways:
+1. 
+Inline CSS: Styles are applied directly within the HTML elements using the style attribute. 
+Each HTML tag can have its own style attribute, which affects only that specific element.
+2. 
+Internal CSS: Styles are placed inside a <style> tag within the <head> section of the HTML document. 
+This method applies styles to elements on a single page.
+3. 
+External CSS: Styles are defined in a separate .css file which is linked to the HTML document using a 
+<link> tag in the <head> section. This is the most efficient way to apply styles when the same styles 
+are to be applied to multiple pages.
